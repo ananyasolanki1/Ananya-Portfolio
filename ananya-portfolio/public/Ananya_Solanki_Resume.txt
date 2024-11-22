@@ -1,0 +1,49 @@
+Ananya Solanki
++91 9969961163#ananya.solanki10@gmail.comïananya-solanki-b56a84245§ananyasolanki1
+
+Introduction
+As a final-year BE Computer Engineering student, I am enthusiastic about exploring latest technologies and committed to continuous learning. I have a working knowledge of programming languages like Python, C, C++ and Java. Additionally, I have work experience in frameworks like ReactJS, Django and database like SQL. I am interested in expanding my knowledge in new technologies, cloud-based technologies, Data Structures and Algorithms (DSA), GenAI and full stack development.
+
+Education
+Don Bosco Institute of Technology, Mumbai                December 2021 – June 2025
+BE (Bachelor of Engineering) in Computer Science         Average SGPI: 8.55
+
+Kendriya Vidyalaya Bhandup, Mumbai                       2009 – 2021
+Primary, secondary and higher secondary schooling        Percentage: 87.6%
+
+Technical Skills
+Languages/Database: Python, C, Java, MySQL
+Web Technologies: Django, ReactJS, HTML, CSS basics, JavaScript basics
+Software & Tools: Git and GitHub, Unity (Game development), AutoCAD, Adobe Illustrator, Power BI
+Skills: Project management, Graphic designing, Data analysis
+
+Projects
+E-commerce platform for plant nursery with virtual green space customizer   July 2023 – May 2024
+• Recommendation system by creating its algorithm
+• Augmented Reality (AR) visualization of plants
+
+Interpretation of learning levels using Bloom's Taxonomy | Django, Numpy, Matplotlib   Aug 2022 – May 2023
+• Web based online quiz for students
+• Analysing the quiz using regression algorithm
+
+System hacking in Cyber Security | Kali Linux, Metasploit, scanning tools   Aug 2022– Sept 2022
+• Performed basic Ethical Hacking operations
+
+Achievements and Experience
+• Internship at Adani Electricity (Customer Call Forecast Modelling in Power BI)   Sem 7: June 2024 – July 2024
+• Plant E-commerce project selected for ResCon 2024 project competition at IIT Bombay   Sem 6: Jan 2024
+• 3rd prize in InnoQuest project competition for Plant E-commerce project   Sem 5: Nov 2023
+• Conducted Adobe illustrator workshop   Sem 5: Aug 2023
+• Design head of ACM-DBIT   Sem 5: July 2023 – June 2024
+• Second Prize in AR filter making competition   Sem 4: March 2023
+• Developed a game for Teknack 2023   Sem 4: Dec 2022 – Feb 2023
+• Assistant design head of ACM (Association for Computing Machinery)   Sem 3: Sept 2022 – June 2023
+• Passed SC-900 Microsoft exam with score 832/1000   Sem 3: Sept 2022
+• 3rd prize in Technical Paper presentation   Sem 2: April 2022
+
+Certifications
+1. Microsoft Security, Compliance and Identity Fundamentals (SC-900)
+2. Basics of Python Programming - issued by Open Weaver
+3. Career Essentials in Generative AI by Microsoft and LinkedIn
+4. Build your own Image Generator - issued by Open Weaver
+
